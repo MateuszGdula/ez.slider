@@ -1,6 +1,6 @@
 import ezSlider from "./Library/ezSlider.js";
 
-//Auto run for default style sliders marked by .ezSliderTarget class
+//auto run for default style sliders marked by .ezSliderTarget class
 (function(){
 	let sliders = document.querySelectorAll(".ezSliderTarget");
 	if(sliders !==null){
