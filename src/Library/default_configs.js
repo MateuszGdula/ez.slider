@@ -96,4 +96,4 @@ const DEFAULT_CONFIGS = {
 	}
 }
 
-export default DEFAULT_CONFIGS;
+export default DEFAULT_CONFIGS; 
