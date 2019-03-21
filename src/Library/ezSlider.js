@@ -29,7 +29,7 @@ class ezSlider extends mixin(Slider_builder, Type_setter, Utils, Shift_slider, F
 
 		return this.slider;
 	}
-	//********************************************************************************************************************
+	//*******************************************************************************************************************
 	static create(DOMObj, configs){
 
 		let validationObj = ezSlider.validateObj(DOMObj);
