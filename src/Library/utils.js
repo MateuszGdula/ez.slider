@@ -25,7 +25,6 @@ markActiveSlide(){
 	for(let stylecss in this.configs.markerActive){			
 		this.markersContainer.childNodes[this.activeSlideIndex].style[stylecss] = this.configs.markerActive[stylecss];
 	}
-
 }
 
 }
