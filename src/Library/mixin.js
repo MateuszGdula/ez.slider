@@ -5,5 +5,4 @@ export function mixin(...mixins) {
     Object.assign(mixed.prototype, ...mixins);
 
     return mixed;
-
 }
